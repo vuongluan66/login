@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirstUI</string>
+    <string name="id_email_ph">ID / Email / Phone Number</string>
+    <string name="password">Password</string>
+    <string name="connect_with">Connect with other financians</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="or_sign_in_u">Or signin up with</string>
+    <string name="create_account">Create Account</string>
+    <string name="version_1_0">Version 1.0.1</string>
+    <string name="hello_baby">Hello Baby!</string>
+    <string name="arrow_left">Arrow Left</string>
+</resources>
